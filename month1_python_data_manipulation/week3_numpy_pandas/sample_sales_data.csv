@@ -1,0 +1,10 @@
+OrderID,Product,Category,Quantity,Price,City
+101,Laptop,Electronics,2,800,Chicago
+102,Phone,Electronics,3,500,Dallas
+103,Chair,Furniture,5,120,Chicago
+104,Desk,Furniture,2,300,New York
+105,Phone,Electronics,1,500,Dallas
+106,Laptop,Electronics,,800,Chicago
+107,Table,Furniture,4,,New York
+108,Chair,Furniture,5,120,Chicago
+108,Chair,Furniture,5,120,Chicago
